@@ -1,0 +1,29 @@
+{
+  "name": "md5-slim",
+  "version": "0.0.0",
+  "description": "a fast and slim JavaScript function for hashing messages with MD5",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CristovaoHonorato/md5-slim.git"
+  },
+  "keywords": [
+    "md5",
+    "hash",
+    "encryption",
+    "message",
+    "digest"
+  ],
+  "author": "Cristóvão Honorato <cristovao.honorato@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CristovaoHonorato/md5-slim/issues"
+  },
+  "homepage": "https://github.com/CristovaoHonorato/md5-slim#readme",
+  "devDependencies": {
+    "mocha": "^4.0.1"
+  }
+}
