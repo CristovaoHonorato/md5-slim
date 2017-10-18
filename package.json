@@ -1,6 +1,6 @@
 {
   "name": "md5-slim",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "a fast and slim JavaScript function for hashing messages with MD5",
   "main": "index.js",
   "scripts": {
